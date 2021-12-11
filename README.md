@@ -1,1 +1,3 @@
-# testingwork1
+### Hi there 👋, It's Dmitry Kovalev here...
+
+I made this project to work on module 9 of the Skillfactory QA Python Automation course
